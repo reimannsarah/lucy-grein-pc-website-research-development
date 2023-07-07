@@ -31,4 +31,7 @@
   - Stretch
     - Take the journey graphic
 
+* 1pm: scaffold basic project files
+* 2pm: start designing components
+
 
