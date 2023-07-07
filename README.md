@@ -6,4 +6,5 @@
 
 * 8:20am: Start researching Typescript
 * 8:37am: researching Vite
+* Doing Typescript exercises on Exercism
 
