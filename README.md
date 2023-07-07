@@ -35,5 +35,6 @@
 * 2pm: start designing components
 * 2:50pm building basic components
 * 4:00pm learning about React Router
+* 4:45pm implementing react router
 
 
